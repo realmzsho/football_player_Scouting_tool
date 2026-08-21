@@ -1,5 +1,3 @@
-<img width="327" height="49" alt="image" src="https://github.com/user-attachments/assets/7c595c7a-d060-49c9-a7e2-47eaa0eba534" /><img width="433" height="49" alt="image" src="https://github.com/user-attachments/assets/4d6ba850-c42c-43e1-be15-e7d850a8594c" /># football_player_Scouting_tool
-
 # ⚽ AI Football Scout & Position Classifier NTI project
 
 🚀 **Live Demo:** [Click Here to Try the Web App](https://footballplayerscoutingtoolv100.streamlit.app/)
@@ -33,5 +31,5 @@ This project was developed collaboratively by:
 1. **Mohammed Osama Mohammed-Khalil Shehabeldin** — GitHub: [@realmzsho](https://github.com/realmzsho)
 2. **[Yousif Mustafa Saeed Abd El Wahab]** — GitHub: [@Zeradex](https://github.com/Zeradex)
 3. **[Asser Samir Ahmed El-sisi]** — GitHub: [@aserelsisi1](https://github.com/aserelsisi1)
-4. **[Jana Ahmed Mohammed Abd-Elghani]** — GitHub: [@jana545](https://github.com/jana545)
+4. **[Jana Ahmed Mohammed Abd-Elghani]** — GitHub: [@janjw14-dev](https://github.com/janjw14-dev)
 5. **[Ali Mohamed Ali Eladgham]** — GitHub: [@46alimohamed46-byte](https://github.com/46alimohamed46-byte)
