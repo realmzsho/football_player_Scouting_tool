@@ -28,8 +28,8 @@ This project is an integrated Machine Learning web application designed to act a
 ## 👥 Prepared By
 This project was developed collaboratively by:
 
-1. **Mohammed Osama Mohammed-Khalil Shehabeldin** — GitHub: [@realmzsho](https://github.com/realmzsho)
-2. **[Yousif Mustafa Saeed Abd El Wahab]** — GitHub: [@Zeradex](https://github.com/Zeradex)
-3. **[Asser Samir Ahmed El-sisi]** — GitHub: [@aserelsisi1](https://github.com/aserelsisi1)
-4. **[Jana Ahmed Mohammed Abd-Elghani]** — GitHub: [@janjw14-dev](https://github.com/janjw14-dev)
+1. **[Yousif Mustafa Saeed Abd El Wahab]** — GitHub: [@Zeradex](https://github.com/Zeradex)
+2. **[Asser Samir Ahmed El-sisi]** — GitHub: [@aserelsisi1](https://github.com/aserelsisi1)
+3. **[Jana Ahmed Mohammed Abd-Elghani]** — GitHub: [@janjw14-dev](https://github.com/janjw14-dev)
+4. **Mohammed Osama Mohammed-Khalil Shehabeldin** — GitHub: [@realmzsho](https://github.com/realmzsho)
 5. **[Ali Mohamed Ali Eladgham]** — GitHub: [@46alimohamed46-byte](https://github.com/46alimohamed46-byte)
