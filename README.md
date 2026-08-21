@@ -1,6 +1,6 @@
 # football_player_Scouting_tool
 
-# ⚽ AI Football Scout & Position Classifier
+# ⚽ AI Football Scout & Position Classifier NTI project
 
 🚀 **Live Demo:** [Click Here to Try the Web App](https://footballplayerscoutingtoolv100.streamlit.app/)
 
